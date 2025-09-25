@@ -5,7 +5,7 @@
  
 # Project Title
  
-Basic Streamlit Project 
+Basic Streamlit Population Website 
 ## Description
  
 Basic implementation of Streamlit by building a website based on US population csv file for the migration rates of each state for the selected year.  
